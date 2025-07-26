@@ -30,5 +30,5 @@ Feel free to explore, fork, or send suggestions. I’m always open to learning m
 <p align="center">
   Made with 💻, ☕, and a lot of debugging by  
   <a href="https://github.com/Lakshya312" target="_blank">Lakshya312 on GitHub</a> · 
-  <a href="https://www.linkedin.com/in/lakshya-p-34496a15a/" target="_blank">Connect on LinkedIn(</a>
+  <a href="https://www.linkedin.com/in/lakshya-p-34496a15a/" target="_blank">Connect on LinkedIn</a>
 </p>
