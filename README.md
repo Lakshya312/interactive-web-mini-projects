@@ -27,8 +27,4 @@ Feel free to explore, fork, or send suggestions. I’m always open to learning m
 
 ---
 
-<p align="center">
-  Made with 💻, ☕, and a lot of debugging by  
-  <a href="https://github.com/Lakshya312">Lakshya312</a> · 
-  <a href="https://www.linkedin.com/in/lakshya-p-34496a15a/">LinkedIn</a>
-</p>
+Made with 💻 and ☕ by [Lakshya312 on GitHub](https://github.com/Lakshya312) · [Connect on LinkedIn](https://www.linkedin.com/in/lakshya-p-34496a15a/)
