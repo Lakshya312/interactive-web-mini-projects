@@ -2,6 +2,10 @@ body{
   background-color: rgb(25,25,25);
   color: white;
   font-family: Arial;
+  position: relative;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 6.5px;
 }
 .title{
   font-size: 36px;
