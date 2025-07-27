@@ -2,9 +2,6 @@ body{
   background-color: rgb(25,25,25);
   color: white;
   font-family: Arial;
-  position: fixed;
-  left: 6vw;
-  top: 10vh;
 }
 .title{
   font-size: 36px;
