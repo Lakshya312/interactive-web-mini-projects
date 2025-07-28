@@ -4,8 +4,9 @@ A collection of beginner-friendly projects built using HTML, CSS, and JavaScript
 
 ## 🧩 Projects Included
 
-- 🧮 [Calculator](https://lakshya312.github.io/interactive-web-mini-projects/calculator/)
 - ✊ [Rock Paper Scissors](https://lakshya312.github.io/interactive-web-mini-projects/rock-paper-scissors/rock-paper-scissors.html)
+- 📝 [Todo-List](https://lakshya312.github.io/interactive-web-mini-projects/todo-list/)
+- 🧮 [Calculator](https://lakshya312.github.io/interactive-web-mini-projects/calculator/)
 - 🌐 [interactive-web-mini-projects website](https://lakshya312.github.io/interactive-web-mini-projects/)
 
 ## 📚 Topics Covered
@@ -13,6 +14,7 @@ A collection of beginner-friendly projects built using HTML, CSS, and JavaScript
 - DOM Manipulation  
 - Event Handling  
 - Conditional Logic & Score Tracking  
+- Array and Loops 
 - LocalStorage  
 - Project Structure & Deployment  
 - GitHub Pages Hosting
