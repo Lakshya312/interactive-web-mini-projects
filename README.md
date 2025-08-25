@@ -7,8 +7,8 @@ A collection of beginner-friendly projects built using HTML, CSS, and JavaScript
 - ✊ [Rock Paper Scissors](https://lakshya312.github.io/interactive-web-mini-projects/rock-paper-scissors/)
 - 📝 [Todo-List](https://lakshya312.github.io/interactive-web-mini-projects/todo-list/)
 - 🧮 [Calculator](https://lakshya312.github.io/interactive-web-mini-projects/calculator/)
+- 🌤️ [Weather-App](https://lakshya312.github.io/interactive-web-mini-projects/weather-app/weather.html)
 - 🌐 [interactive-web-mini-projects website](https://lakshya312.github.io/interactive-web-mini-projects/)
-- 🌤️ [interactive-web-mini-projects website](https://lakshya312.github.io/interactive-web-mini-projects/weather-app/weather.html)
 
 ## 📚 Topics Covered
 
