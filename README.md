@@ -8,6 +8,7 @@ A collection of beginner-friendly projects built using HTML, CSS, and JavaScript
 - 📝 [Todo-List](https://lakshya312.github.io/interactive-web-mini-projects/todo-list/)
 - 🧮 [Calculator](https://lakshya312.github.io/interactive-web-mini-projects/calculator/)
 - 🌐 [interactive-web-mini-projects website](https://lakshya312.github.io/interactive-web-mini-projects/)
+- 🌤️ [interactive-web-mini-projects website](https://lakshya312.github.io/interactive-web-mini-projects/weather-app/weather.html)
 
 ## 📚 Topics Covered
 
