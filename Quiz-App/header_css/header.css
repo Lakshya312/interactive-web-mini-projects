@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.question-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:start;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+.outer-line-bar{
+    width: 112px;
+    height: 9.5px;
+    border-radius: 11px;
+    border: 1px solid black;
+    padding: 1px;
+    box-sizing: border-box;
+}
+
+.line-bar{
+    width: 50%;
+    height: 100%;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.header-right{
+    font-size: 15px;
+    font-family: 'Poppins', san-serif;
+}
